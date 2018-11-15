@@ -1,0 +1,10 @@
+{
+  "name": "makeschool-challenge",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "twitter-proxy": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
