@@ -7,6 +7,17 @@
   padding-left: 46px;
 }
 
+.retweet-note {
+  display: flex;
+}
+
+.retweet-icon {
+  margin-left: -24px;
+  width: 24px;
+  position: relative;
+  float: left;
+}
+
 .retweet-user-name {
   text-decoration: none;
   &:hover {
