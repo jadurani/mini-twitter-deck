@@ -1,0 +1,35 @@
+.floating-button {
+  margin: 32px 56px;
+  position: fixed;
+  z-index: 3;
+
+  &.bottom {
+    bottom: 0;
+  }
+
+  &.right {
+    right: 0;
+  }
+}
+
+.btn {
+  border: 0;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn-circle {
+  height: 48px;
+  width: 48px;
+  border-radius: 100%;
+
+  -webkit-box-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
+
+  &:active {
+    -webkit-box-shadow: inset 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: inset 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
+  }
+}
