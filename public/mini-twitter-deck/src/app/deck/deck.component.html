@@ -1,6 +1,10 @@
-<div class="container">
-  <mtd-deck-column
-      [screenName]="columnSettings.screenName"
-      rowCount="columnSettings.rowCount">
-  </mtd-deck-column>
+<div class="deck-constrained">
+  <ng-container *ngFor="let columnInfo of columnList">
+    <div class="column-container">
+      <mtd-deck-column
+          [screenName]="columnInfo.screenName"
+          [rowCount]="columnInfo.rowCount">
+      </mtd-deck-column>
+    </div>
+  </ng-container>
 </div>
