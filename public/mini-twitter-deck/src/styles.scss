@@ -1,4 +1,4 @@
-@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import 'base.scss';
 
 html,
 body {
@@ -8,7 +8,4 @@ body {
 
 body {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
-
-  line-height: 22px;
 }

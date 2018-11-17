@@ -1,8 +1,10 @@
+@import './base';
+@import './mixins';
+
 .l-constrained {
   padding: 8px;
-  box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.3);
-
   position: relative;
+  @include box-shadow(1px, 1px, 0px, 0px, $mystic);
 }
 
 .tweet {
@@ -11,6 +13,7 @@
 
 .retweet-note {
   display: flex;
+  color: $pale-sky;
 }
 
 .retweet-icon {
@@ -18,11 +21,18 @@
   width: 24px;
   position: relative;
   float: left;
+
+  .retweeted {
+    color: $mountain-meadow;
+    transform: translateY(2px) rotate(90deg);
+  }
 }
 
 .retweet-user-name {
-  text-decoration: none;
+  color: $pale-sky;
+
   &:hover {
+    color: inherit;
     text-decoration: underline;
   }
 }
@@ -34,10 +44,10 @@
 
 .account-link {
   flex: 1 1 auto;
-  text-decoration: none;
 
   &:hover {
     .tweet-user-name {
+      color: inherit;
       text-decoration: underline;
     }
   }
@@ -68,10 +78,12 @@
 
 .tweet-user-name {
   font-weight: bold;
+  color: $black;
 }
 
 .tweet-user-handle {
-  padding-left: 8px;
+  padding-left: 4px;
+  color: $pale-sky;
 }
 
 .tweet-time {
@@ -79,9 +91,9 @@
 }
 
 .tweet-time-link {
-  text-decoration: none;
-
+  color: $pale-sky;
   &:hover {
+    color: inherit;
     text-decoration: underline;
   }
 }
@@ -92,8 +104,6 @@
 }
 
 .text-link {
-  text-decoration: none;
-
   &:hover {
     text-decoration: underline;
   }

@@ -1,0 +1,91 @@
+@import './mixins.scss';
+
+/* COLORS */
+$black: #000000;
+$blue: #0000ee;
+$amaranth: #e81c4f;
+$curious-blue: #1b95e0;
+$lightning-yellow: #fab81e;
+$mountain-meadow: #19cf86;
+$mystic: #e6ecf0;
+$pale-sky: #657786;
+$white: #ffffff;
+
+/* THEMES */
+.amaranth {
+  @include anchor('color', $amaranth);
+}
+
+.curious-blue {
+  @include anchor('color', $curious-blue);
+}
+
+.lightning-yellow {
+  @include anchor('color', $lightning-yellow);
+}
+
+.mountain-meadow {
+  @include anchor('color', $mountain-meadow);
+}
+
+body {
+  font-size: 14px;
+  line-height: 24px;
+
+  @include anchor('text-decoration', none);
+  @include scrollbar($mystic);
+}
+
+.text-size {
+  &--xs {
+    font-size: 8px;
+  }
+
+  &--sm {
+    font-size: 12px;
+  }
+
+  &--md {
+    font-size: 14px;
+  }
+
+  &--lg {
+    font-size: 18px;
+  }
+
+  &--xl {
+    font-size: 24px;
+  }
+}
+
+.btn {
+  background-color: $mystic;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn-container-fixed {
+  position: fixed;
+  z-index: 3;
+
+  &.bottom {
+    margin-bottom: 48px;
+    bottom: 0;
+  }
+
+  &.right {
+    right: 0;
+  }
+}
+
+.btn-fixed {
+  @include box-shadow(8px, 4px, 16px, 0px, rgba(0, 0, 0, 0.5));
+  &:active {
+    @include inner-shadow(2px, 2px, 16px, rgba(0, 0, 0, 0.2));
+  }
+}
+
+.btn-circle {
+  border-radius: 100%;
+}

@@ -1,35 +1,26 @@
-.floating-button {
-  margin: 32px 56px;
-  position: fixed;
-  z-index: 3;
+@import 'base.scss';
 
-  &.bottom {
-    bottom: 0;
-  }
-
-  &.right {
-    right: 0;
-  }
-}
-
-.btn {
-  border: 0;
-  outline: none;
-  cursor: pointer;
-}
-
-.btn-circle {
+.btn-settings {
+  display: flex;
   height: 48px;
-  width: 48px;
-  border-radius: 100%;
+  width: 56px;
 
-  -webkit-box-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
-  -moz-box-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
-  box-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
+  i {
+    flex: 1;
+  }
+}
 
-  &:active {
-    -webkit-box-shadow: inset 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
-    -moz-box-shadow: inset 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
-    box-shadow: inset 4px 4px 16px 0px rgba(0, 0, 0, 0.3);
+.icon-arrow-left {
+  display: none;
+}
+
+.btn-settings.closed {
+  &:hover {
+    .icon-arrow-left {
+      display: inline;
+    }
+    .icon-settings {
+      transform: rotate(20deg);
+    }
   }
 }

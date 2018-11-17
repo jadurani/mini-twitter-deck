@@ -3,13 +3,14 @@
     <div class="tweet">
       <div class="retweet-note" *ngIf="tweet.retweeted_status">
         <div class="retweet-icon">
-          <i class="material-icons">
+          <i class="retweeted material-icons text-size--lg">
             repeat
           </i>
         </div>
-        <a class="retweet-user-name"
-            href="https://twitter.com/{{ tweet.user.screen_name }}">
-          {{ tweet.user.name }}
+        <a href="https://twitter.com/{{ tweet.user.screen_name }}">
+          <span class="retweet-user-name">
+            {{ tweet.user.name }}
+          </span>
         </a>
         <span>&nbsp;Retweeted</span>
       </div>
@@ -28,10 +29,11 @@
           </div>
         </a>
         <time class="tweet-time">
-          <a class="tweet-time-link"
-              href="https://twitter.com/{{ displayTweet.user.screen_name }}/status/{{ displayTweet.id_str}}"
+          <a href="https://twitter.com/{{ displayTweet.user.screen_name }}/status/{{ displayTweet.id_str}}"
               target="_blank">
-            {{ displayTweet.created_at | date: 'dd MMM' }}
+            <span class="tweet-time-link">
+              {{ displayTweet.created_at | date: 'dd MMM' }}
+            </span>
           </a>
         </time>
       </header>
