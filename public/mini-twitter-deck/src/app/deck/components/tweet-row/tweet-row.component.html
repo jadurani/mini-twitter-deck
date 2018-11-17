@@ -1,0 +1,55 @@
+<!-- NOT A RETWEET -->
+<article *ngIf="!tweet.retweeted_status">
+  <header>
+    <a href="https://twitter.com/{{ tweet.user.screen_name }}" target="_blank">
+      <div>
+        <img [src]="tweet.user.profile_image_url_https">
+      </div>
+      <div>
+        <span>{{ tweet.user.name }}</span>
+        <span>@{{ tweet.user.screen_name }}</span>
+      </div>
+      <time>
+        <a href="https://twitter.com/{{ tweet.user.screen_name }}/status/{{ tweet.id_str}}"
+            target="_blank">
+          {{ tweet.created_at | date: 'dd MMM' }}
+        </a>
+      </time>
+    </a>
+  </header>
+
+  <div>
+    <p>
+      {{ tweet.text }}
+    </p>
+  </div>
+</article>
+
+<!-- RETWEET -->
+<article *ngIf="tweet.retweeted_status">
+  <header>
+    <div>
+      {{ tweet.user.screen_name }} Retweeted
+    </div>
+    <a href="https://twitter.com/{{ tweet.retweeted_status.user.screen_name }}" target="_blank">
+      <div>
+        <img [src]="tweet.retweeted_status.user.profile_image_url_https">
+      </div>
+      <div>
+        <span>{{ tweet.retweeted_status.user.name }}</span>
+        <span>@{{ tweet.retweeted_status.user.screen_name }}</span>
+      </div>
+      <time>
+        <a href="https://twitter.com/{{ tweet.retweeted_status.user.screen_name }}/status/{{ tweet.retweeted_status.id_str}}" target="_blank">
+          {{ tweet.retweeted_status.created_at | date: 'dd MMM' }}
+        </a>
+      </time>
+    </a>
+  </header>
+
+  <div>
+    <p>
+      {{ tweet.retweeted_status.text }}
+    </p>
+  </div>
+</article>
