@@ -1,53 +1,38 @@
-<!-- NOT A RETWEET -->
-<article *ngIf="!tweet.retweeted_status">
-  <header>
-    <a href="https://twitter.com/{{ tweet.user.screen_name }}" target="_blank">
-      <div>
-        <img [src]="tweet.user.profile_image_url_https">
+<article>
+  <div class="l-constrained">
+    <div class="tweet">
+      <div *ngIf="tweet.retweeted_status">
+        {{ tweet.user.screen_name }} Retweeted
       </div>
-      <div>
-        <span>{{ tweet.user.name }}</span>
-        <span>@{{ tweet.user.screen_name }}</span>
-      </div>
-      <time>
-        <a href="https://twitter.com/{{ tweet.user.screen_name }}/status/{{ tweet.id_str}}"
+
+      <header class="tweet-header">
+        <a class="account-link"
+            href="https://twitter.com/{{ displayTweet.user.screen_name }}"
             target="_blank">
-          {{ tweet.created_at | date: 'dd MMM' }}
+          <div class="tweet-img">
+            <img class="tweet-avatar"
+              [src]="displayTweet.user.profile_image_url_https">
+          </div>
+          <div class="tweet-user">
+            <span class="tweet-user-name">{{ displayTweet.user.name }}</span>
+            <span class="tweet-user-handle">@{{ displayTweet.user.screen_name }}</span>
+          </div>
+          <time class="tweet-time">
+            <a class="tweet-time-link"
+                href="https://twitter.com/{{ displayTweet.user.screen_name }}/status/{{ displayTweet.id_str}}"
+                target="_blank">
+              {{ displayTweet.created_at | date: 'dd MMM' }}
+            </a>
+          </time>
         </a>
-      </time>
-    </a>
-  </header>
+      </header>
 
-  <div>
-    <p [innerHtml]="tweet.text | tweetContent: tweet.entities">
-    </p>
-  </div>
-</article>
-
-<!-- RETWEET -->
-<article *ngIf="tweet.retweeted_status">
-  <header>
-    <div>
-      {{ tweet.user.screen_name }} Retweeted
+      <div class="tweet-body">
+        <p class="tweet-text"
+            [innerHtml]="displayTweet.text |
+                tweetContent: displayTweet.entities">
+        </p>
+      </div>
     </div>
-    <a href="https://twitter.com/{{ tweet.retweeted_status.user.screen_name }}" target="_blank">
-      <div>
-        <img [src]="tweet.retweeted_status.user.profile_image_url_https">
-      </div>
-      <div>
-        <span>{{ tweet.retweeted_status.user.name }}</span>
-        <span>@{{ tweet.retweeted_status.user.screen_name }}</span>
-      </div>
-      <time>
-        <a href="https://twitter.com/{{ tweet.retweeted_status.user.screen_name }}/status/{{ tweet.retweeted_status.id_str}}" target="_blank">
-          {{ tweet.retweeted_status.created_at | date: 'dd MMM' }}
-        </a>
-      </time>
-    </a>
-  </header>
-
-  <div>
-    <p [innerHtml]="tweet.retweeted_status.text | tweetContent: tweet.retweeted_status.entities">
-    </p>
   </div>
 </article>

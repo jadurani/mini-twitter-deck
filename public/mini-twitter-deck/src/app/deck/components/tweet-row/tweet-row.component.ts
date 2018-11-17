@@ -6,16 +6,22 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./tweet-row.component.scss']
 })
 export class TweetRowComponent implements OnInit {
+  displayTweet;
   // tweet = TWEET_SAMP;
   tweet = RETWEET_SAMP;
 
-  constructor() { }
+  constructor() {
+    if (!!this.tweet.retweeted_status) {
+      this.displayTweet = this.tweet.retweeted_status;
+    }
+  }
 
   ngOnInit() {
   }
 }
 
 const TWEET_SAMP = {
+    retweeted_status: null,
     'created_at': new Date('Tue Nov 13 21:30:02 +0000 2018'),
     'id': 1062457586954461200,
     'id_str': '1062457586954461184',
@@ -266,7 +272,7 @@ const RETWEET_SAMP = {
   'coordinates': null,
   'place': null,
   'contributors': null,
-  'retweeted_status': {
+  retweeted_status: {
     'created_at': 'Fri Nov 02 17:33:13 +0000 2018',
     'id': 1058411723881775100,
     'id_str': '1058411723881775104',

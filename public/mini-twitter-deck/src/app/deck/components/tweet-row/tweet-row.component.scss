@@ -1,3 +1,67 @@
-mat-card-content {
-  margin-left: 56px;
+.l-constrained {
+  padding: 8px;
+  position: relative;
+}
+
+.tweet {
+  padding-left: 46px;
+}
+
+/* TWEET HEADER */
+
+.account-link {
+  display: flex;
+  text-decoration: none;
+}
+
+.tweet-img {
+  margin-left: -46px;
+  margin-right: 10px;
+  width: 36px;
+
+  position: relative;
+  float: left;
+}
+
+.tweet-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 100%;
+  z-index: 1;
+  position: absolute;
+}
+
+.tweet-user {
+  flex: 1 1 auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.tweet-user-name {
+  font-weight: bold;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.tweet-user-handle {
+  padding-left: 8px;
+}
+
+.tweet-time {
+  padding-left: 4px;
+}
+
+.tweet-time-link {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* TWEET BODY */
+.tweet-text {
+  margin: 0;
 }
