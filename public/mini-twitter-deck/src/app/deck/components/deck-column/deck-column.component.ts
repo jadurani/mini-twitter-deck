@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { TwitterService } from '@shared/services/twitter.service';
 
 @Component({
@@ -7,13 +7,15 @@ import { TwitterService } from '@shared/services/twitter.service';
   styleUrls: ['./deck-column.component.scss']
 })
 export class DeckColumnComponent implements OnInit {
+  @Input() screenName: string;
+  @Input() rowCount: number;
   tweetList;
 
   constructor(private twitterService: TwitterService) { }
 
   ngOnInit() {
     this.twitterService
-      .getTweets('sample_id')
+      .getTweets(this.screenName, this.rowCount)
       .subscribe(tweetList => {
         this.tweetList = tweetList;
       });
