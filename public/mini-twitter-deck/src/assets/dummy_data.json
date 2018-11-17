@@ -1,0 +1,5351 @@
+[
+  {
+    "created_at": "Tue Nov 13 21:30:02 +0000 2018",
+    "id": 1062457586954461200,
+    "id_str": "1062457586954461184",
+    "text": "Excited to share the news that Make School co-founders, @DesaiAshu and @JeremyRossmann, have been named in this yea… https://t.co/0w0wFJ0Fok",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DesaiAshu",
+          "name": "Ashu Desai",
+          "id": 312168293,
+          "id_str": "312168293",
+          "indices": [
+            56,
+            66
+          ]
+        },
+        {
+          "screen_name": "JeremyRossmann",
+          "name": "Jeremy Rossmann",
+          "id": 2561905418,
+          "id_str": "2561905418",
+          "indices": [
+            71,
+            86
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0w0wFJ0Fok",
+          "expanded_url": "https://twitter.com/i/web/status/1062457586954461184",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 12 22:04:00 +0000 2018",
+    "id": 1062103744886816800,
+    "id_str": "1062103744886816768",
+    "text": "Last week, Airbnb engineer @stevenhepting was in the building to discuss his career as a software engineer. Here ar… https://t.co/W9nn6TtFY5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "stevenhepting",
+          "name": "Steven Hepting",
+          "id": 188427877,
+          "id_str": "188427877",
+          "indices": [
+            27,
+            41
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W9nn6TtFY5",
+          "expanded_url": "https://twitter.com/i/web/status/1062103744886816768",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 08 22:39:48 +0000 2018",
+    "id": 1060663202181275600,
+    "id_str": "1060663202181275654",
+    "text": "Ever wanted to learn more about the magical power of programming? Join our free Student Workshop on Nov 12th from 4… https://t.co/vfwQ9smi9E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vfwQ9smi9E",
+          "expanded_url": "https://twitter.com/i/web/status/1060663202181275654",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 08 00:00:01 +0000 2018",
+    "id": 1060321003434377200,
+    "id_str": "1060321003434377217",
+    "text": "Bay Area friends - interested in learning more about Make School? Attend our upcoming in-person info session this F… https://t.co/lWtFRvfChK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lWtFRvfChK",
+          "expanded_url": "https://twitter.com/i/web/status/1060321003434377217",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Nov 04 21:05:02 +0000 2018",
+    "id": 1059189803445563400,
+    "id_str": "1059189803445563392",
+    "text": "Our student spotlight this week is current student Marianna Campbell. She takes us through her journey to programmi… https://t.co/wrOPqMjSh8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wrOPqMjSh8",
+          "expanded_url": "https://twitter.com/i/web/status/1059189803445563392",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 02 22:19:55 +0000 2018",
+    "id": 1058483870734016500,
+    "id_str": "1058483870734016513",
+    "text": "We'll be hosting a free Educator Workshop on Nov 12th for teachers and other educators who would like to learn more… https://t.co/qj4HuYMNUf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qj4HuYMNUf",
+          "expanded_url": "https://twitter.com/i/web/status/1058483870734016513",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 02 17:59:56 +0000 2018",
+    "id": 1058418447464288300,
+    "id_str": "1058418447464288256",
+    "text": "RT @alexisohanian: Yes! That's @MakeSchool in the @Initialized portfolio https://t.co/S4snvVswi1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "alexisohanian",
+          "name": "Alexis Ohanian Sr. 🚀",
+          "id": 811350,
+          "id_str": "811350",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            31,
+            42
+          ]
+        },
+        {
+          "screen_name": "Initialized",
+          "name": "Initialized Capital",
+          "id": 738803172991373300,
+          "id_str": "738803172991373312",
+          "indices": [
+            50,
+            62
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S4snvVswi1",
+          "expanded_url": "https://twitter.com/LeadByValues/status/1058404289075470343",
+          "display_url": "twitter.com/LeadByValues/s…",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 02 17:33:13 +0000 2018",
+      "id": 1058411723881775100,
+      "id_str": "1058411723881775104",
+      "text": "Yes! That's @MakeSchool in the @Initialized portfolio https://t.co/S4snvVswi1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              12,
+              23
+            ]
+          },
+          {
+            "screen_name": "Initialized",
+            "name": "Initialized Capital",
+            "id": 738803172991373300,
+            "id_str": "738803172991373312",
+            "indices": [
+              31,
+              43
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/S4snvVswi1",
+            "expanded_url": "https://twitter.com/LeadByValues/status/1058404289075470343",
+            "display_url": "twitter.com/LeadByValues/s…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 811350,
+        "id_str": "811350",
+        "name": "Alexis Ohanian Sr. 🚀",
+        "screen_name": "alexisohanian",
+        "location": "Worldwide",
+        "description": "🚀 Co-founder & managing partner @Initialized (early stage VC, $22B in market value so far) 📖 Bestselling author ⬆️ Co-founder @Reddit",
+        "url": "https://t.co/HWnUv3ZBtv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HWnUv3ZBtv",
+                "expanded_url": "http://alexisohanian.com",
+                "display_url": "alexisohanian.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 243513,
+        "friends_count": 4410,
+        "listed_count": 4501,
+        "created_at": "Mon Mar 05 03:26:51 +0000 2007",
+        "favourites_count": 27100,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 62221,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "111111",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/975128915533426688/JEGHXFiz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/975128915533426688/JEGHXFiz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/811350/1528325831",
+        "profile_link_color": "EE1235",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1058404289075470300,
+      "quoted_status_id_str": "1058404289075470343",
+      "quoted_status": {
+        "created_at": "Fri Nov 02 17:03:41 +0000 2018",
+        "id": 1058404289075470300,
+        "id_str": "1058404289075470343",
+        "text": "I'm glad to see a reference to #AccesibleEducation in your talk today @alexisohanian \nI wonder if there any… https://t.co/RJ8s1qdXm8",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "AccesibleEducation",
+              "indices": [
+                31,
+                50
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "alexisohanian",
+              "name": "Alexis Ohanian Sr. 🚀",
+              "id": 811350,
+              "id_str": "811350",
+              "indices": [
+                70,
+                84
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/RJ8s1qdXm8",
+              "expanded_url": "https://twitter.com/i/web/status/1058404289075470343",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                109,
+                132
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1620548466,
+          "id_str": "1620548466",
+          "name": "Sandeep Sidhu (Grewal)",
+          "screen_name": "LeadByValues",
+          "location": "Vancouver, Canada",
+          "description": "I will leave this world a little better than I found it | Natural #Optimist & #Tenacious | Fostering positive relationships @SFU | #Register2Give campaigner",
+          "url": "https://t.co/kcdEl7sCPe",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/kcdEl7sCPe",
+                  "expanded_url": "http://ca.linkedin.com/in/LeadByValues/",
+                  "display_url": "ca.linkedin.com/in/LeadByValue…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 771,
+          "friends_count": 1422,
+          "listed_count": 64,
+          "created_at": "Thu Jul 25 15:01:12 +0000 2013",
+          "favourites_count": 1775,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4443,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1029786443994939392/PCguTOjs_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029786443994939392/PCguTOjs_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620548466/1421634663",
+          "profile_link_color": "3B94D9",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 4,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1058404289075470300,
+    "quoted_status_id_str": "1058404289075470343",
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 01 21:06:23 +0000 2018",
+    "id": 1058102977553203200,
+    "id_str": "1058102977553203200",
+    "text": "We visited the offices of Yelp this past week, took a tour of the space, and heard from a panel of engineers (inclu… https://t.co/Ud6eh0DXZz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ud6eh0DXZz",
+          "expanded_url": "https://twitter.com/i/web/status/1058102977553203200",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 01 01:00:10 +0000 2018",
+    "id": 1057799424628396000,
+    "id_str": "1057799424628396032",
+    "text": "We had a ton of fun this #halloween 😀👻🎃 Hope you did too! #spooky #trickortreat https://t.co/bZaX8w1VAM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "halloween",
+          "indices": [
+            25,
+            35
+          ]
+        },
+        {
+          "text": "spooky",
+          "indices": [
+            58,
+            65
+          ]
+        },
+        {
+          "text": "trickortreat",
+          "indices": [
+            66,
+            79
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1057799384245649400,
+          "id_str": "1057799384245649408",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq4O732WwAA4x_m.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq4O732WwAA4x_m.jpg",
+          "url": "https://t.co/bZaX8w1VAM",
+          "display_url": "pic.twitter.com/bZaX8w1VAM",
+          "expanded_url": "https://twitter.com/MakeSchool/status/1057799424628396032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1057799384245649400,
+          "id_str": "1057799384245649408",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq4O732WwAA4x_m.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq4O732WwAA4x_m.jpg",
+          "url": "https://t.co/bZaX8w1VAM",
+          "display_url": "pic.twitter.com/bZaX8w1VAM",
+          "expanded_url": "https://twitter.com/MakeSchool/status/1057799424628396032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1057799389001986000,
+          "id_str": "1057799389001986048",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq4O8JkWsAAR0A6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq4O8JkWsAAR0A6.jpg",
+          "url": "https://t.co/bZaX8w1VAM",
+          "display_url": "pic.twitter.com/bZaX8w1VAM",
+          "expanded_url": "https://twitter.com/MakeSchool/status/1057799424628396032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1057799406584582100,
+          "id_str": "1057799406584582144",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq4O9LEX0AAM_BV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq4O9LEX0AAM_BV.jpg",
+          "url": "https://t.co/bZaX8w1VAM",
+          "display_url": "pic.twitter.com/bZaX8w1VAM",
+          "expanded_url": "https://twitter.com/MakeSchool/status/1057799424628396032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1057799414495014900,
+          "id_str": "1057799414495014913",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dq4O9oiXcAEozTh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dq4O9oiXcAEozTh.jpg",
+          "url": "https://t.co/bZaX8w1VAM",
+          "display_url": "pic.twitter.com/bZaX8w1VAM",
+          "expanded_url": "https://twitter.com/MakeSchool/status/1057799424628396032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 29 22:55:06 +0000 2018",
+    "id": 1057043173451747300,
+    "id_str": "1057043173451747330",
+    "text": "We just published an article about Ramp, our intro course that ensures all students (from beginner to advanced) are… https://t.co/g30ddokJpR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/g30ddokJpR",
+          "expanded_url": "https://twitter.com/i/web/status/1057043173451747330",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Oct 25 22:20:17 +0000 2018",
+    "id": 1055584863053504500,
+    "id_str": "1055584863053504512",
+    "text": "RT @QuoraSessions: How can a college student prepare themselves for entrepreneurship? Answer by @DesaiAshu https://t.co/OuHSf7l9GH https://…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "QuoraSessions",
+          "name": "Quora Sessions",
+          "id": 4489240819,
+          "id_str": "4489240819",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "DesaiAshu",
+          "name": "Ashu Desai",
+          "id": 312168293,
+          "id_str": "312168293",
+          "indices": [
+            96,
+            106
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OuHSf7l9GH",
+          "expanded_url": "http://ow.ly/qWwJ30mlO9Y",
+          "display_url": "ow.ly/qWwJ30mlO9Y",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 25 14:01:32 +0000 2018",
+      "id": 1055459347604607000,
+      "id_str": "1055459347604606978",
+      "text": "How can a college student prepare themselves for entrepreneurship? Answer by @DesaiAshu https://t.co/OuHSf7l9GH https://t.co/SDw1RP8zNy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DesaiAshu",
+            "name": "Ashu Desai",
+            "id": 312168293,
+            "id_str": "312168293",
+            "indices": [
+              77,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OuHSf7l9GH",
+            "expanded_url": "http://ow.ly/qWwJ30mlO9Y",
+            "display_url": "ow.ly/qWwJ30mlO9Y",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1055459345599815700,
+            "id_str": "1055459345599815681",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqW-rslX4AEMO9i.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqW-rslX4AEMO9i.jpg",
+            "url": "https://t.co/SDw1RP8zNy",
+            "display_url": "pic.twitter.com/SDw1RP8zNy",
+            "expanded_url": "https://twitter.com/QuoraSessions/status/1055459347604606978/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 724,
+                "h": 483,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 724,
+                "h": 483,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1055459345599815700,
+            "id_str": "1055459345599815681",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/DqW-rslX4AEMO9i.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DqW-rslX4AEMO9i.jpg",
+            "url": "https://t.co/SDw1RP8zNy",
+            "display_url": "pic.twitter.com/SDw1RP8zNy",
+            "expanded_url": "https://twitter.com/QuoraSessions/status/1055459347604606978/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 724,
+                "h": 483,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 724,
+                "h": 483,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4489240819,
+        "id_str": "4489240819",
+        "name": "Quora Sessions",
+        "screen_name": "QuoraSessions",
+        "location": "",
+        "description": "Stay updated with recent and upcoming sessions on Quora.",
+        "url": "https://t.co/2NSuC27UU7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2NSuC27UU7",
+                "expanded_url": "https://www.quora.com/sessions",
+                "display_url": "quora.com/sessions",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7291,
+        "friends_count": 8,
+        "listed_count": 98,
+        "created_at": "Mon Dec 07 19:46:58 +0000 2015",
+        "favourites_count": 113,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 2431,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694339923441090560/7Jg-IdV-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694339923441090560/7Jg-IdV-_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4489240819/1467054641",
+        "profile_link_color": "B92B27",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 23 23:28:39 +0000 2018",
+    "id": 1054877290633551900,
+    "id_str": "1054877290633551872",
+    "text": "What are the biggest challenges the world of higher education faces right now? See the answer founder @DesaiAshu ga… https://t.co/iDeICoqJI7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DesaiAshu",
+          "name": "Ashu Desai",
+          "id": 312168293,
+          "id_str": "312168293",
+          "indices": [
+            102,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iDeICoqJI7",
+          "expanded_url": "https://twitter.com/i/web/status/1054877290633551872",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 22 19:45:10 +0000 2018",
+    "id": 1054458663283408900,
+    "id_str": "1054458663283408898",
+    "text": "We put together a list of organizations that support the increase of diversity in tech - check out the list here:… https://t.co/WsVk9fxvRK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/WsVk9fxvRK",
+          "expanded_url": "https://twitter.com/i/web/status/1054458663283408898",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 21 18:02:03 +0000 2018",
+    "id": 1054070321903554600,
+    "id_str": "1054070321903554563",
+    "text": "Curious about trends in technology and education? It’s the last day to ask your questions to founder Ashu Desai for… https://t.co/2P00i8z2iY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2P00i8z2iY",
+          "expanded_url": "https://twitter.com/i/web/status/1054070321903554563",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 20 00:47:13 +0000 2018",
+    "id": 1053447512260960300,
+    "id_str": "1053447512260960256",
+    "text": "RT @SWEDU_SF: ONE HOUR until more than 100 amazing people show up at @Makeschool to spend their entire weekend designing amazing new learni…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SWEDU_SF",
+          "name": "StartupWeekendEDU SF",
+          "id": 1267641864,
+          "id_str": "1267641864",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            69,
+            80
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 19 23:51:33 +0000 2018",
+      "id": 1053433502006308900,
+      "id_str": "1053433502006308865",
+      "text": "ONE HOUR until more than 100 amazing people show up at @Makeschool to spend their entire weekend designing amazing… https://t.co/MRofX8odYv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              55,
+              66
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MRofX8odYv",
+            "expanded_url": "https://twitter.com/i/web/status/1053433502006308865",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1267641864,
+        "id_str": "1267641864",
+        "name": "StartupWeekendEDU SF",
+        "screen_name": "SWEDU_SF",
+        "location": "San Francisco, CA",
+        "description": "Building a community of #BayArea changemakers transforming #education ideas into action. Join us Oct 19-21 @MakeSchool: https://t.co/9ZFVKZi0Ar",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/9ZFVKZi0Ar",
+                "expanded_url": "http://go.startupweekend.org/SWEDUSF",
+                "display_url": "go.startupweekend.org/SWEDUSF",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 784,
+        "friends_count": 907,
+        "listed_count": 37,
+        "created_at": "Thu Mar 14 18:13:11 +0000 2013",
+        "favourites_count": 470,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1197,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "119A48",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045161141528289280/XtfGZGG2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045161141528289280/XtfGZGG2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267641864/1423590009",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Oct 19 22:21:38 +0000 2018",
+    "id": 1053410874227114000,
+    "id_str": "1053410874227113986",
+    "text": "Don’t forget to ask any questions you have about higher education and computer science here:… https://t.co/VmGs0vYsnT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VmGs0vYsnT",
+          "expanded_url": "https://twitter.com/i/web/status/1053410874227113986",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Oct 19 00:12:24 +0000 2018",
+    "id": 1053076362154541000,
+    "id_str": "1053076362154541056",
+    "text": "RT @QuoraSessions: .@DesaiAshu, founder of @MakeSchool is hosting a Quora Session this Monday at 11:00 AM PDT. Ask your questions now! http…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "QuoraSessions",
+          "name": "Quora Sessions",
+          "id": 4489240819,
+          "id_str": "4489240819",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "DesaiAshu",
+          "name": "Ashu Desai",
+          "id": 312168293,
+          "id_str": "312168293",
+          "indices": [
+            20,
+            30
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            43,
+            54
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 19 00:00:22 +0000 2018",
+      "id": 1053073332000735200,
+      "id_str": "1053073332000735233",
+      "text": ".@DesaiAshu, founder of @MakeSchool is hosting a Quora Session this Monday at 11:00 AM PDT. Ask your questions now!… https://t.co/RChynj4obY",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DesaiAshu",
+            "name": "Ashu Desai",
+            "id": 312168293,
+            "id_str": "312168293",
+            "indices": [
+              1,
+              11
+            ]
+          },
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              24,
+              35
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RChynj4obY",
+            "expanded_url": "https://twitter.com/i/web/status/1053073332000735233",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4489240819,
+        "id_str": "4489240819",
+        "name": "Quora Sessions",
+        "screen_name": "QuoraSessions",
+        "location": "",
+        "description": "Stay updated with recent and upcoming sessions on Quora.",
+        "url": "https://t.co/2NSuC27UU7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2NSuC27UU7",
+                "expanded_url": "https://www.quora.com/sessions",
+                "display_url": "quora.com/sessions",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7291,
+        "friends_count": 8,
+        "listed_count": 98,
+        "created_at": "Mon Dec 07 19:46:58 +0000 2015",
+        "favourites_count": 113,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 2431,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694339923441090560/7Jg-IdV-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694339923441090560/7Jg-IdV-_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4489240819/1467054641",
+        "profile_link_color": "B92B27",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Oct 18 22:15:14 +0000 2018",
+    "id": 1053046877397151700,
+    "id_str": "1053046877397151744",
+    "text": "Make School founder Ashu Desai is taking your questions during a @Quora Session we’re hosting this upcoming Monday,… https://t.co/0U63FcqPRs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Quora",
+          "name": "Quora",
+          "id": 33696409,
+          "id_str": "33696409",
+          "indices": [
+            65,
+            71
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0U63FcqPRs",
+          "expanded_url": "https://twitter.com/i/web/status/1053046877397151744",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 16 01:23:59 +0000 2018",
+    "id": 1052007214049767400,
+    "id_str": "1052007214049767424",
+    "text": "RT @mhartl: I’m a little late to the party here, but this is some really exciting news from @MakeSchool (via @DesaiAshu). https://t.co/flj5…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mhartl",
+          "name": "Michael Hartl 🍂",
+          "id": 9902092,
+          "id_str": "9902092",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            92,
+            103
+          ]
+        },
+        {
+          "screen_name": "DesaiAshu",
+          "name": "Ashu Desai",
+          "id": 312168293,
+          "id_str": "312168293",
+          "indices": [
+            109,
+            119
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 15 23:26:04 +0000 2018",
+      "id": 1051977539432796200,
+      "id_str": "1051977539432796160",
+      "text": "I’m a little late to the party here, but this is some really exciting news from @MakeSchool (via @DesaiAshu). https://t.co/flj5F5Rnty",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              80,
+              91
+            ]
+          },
+          {
+            "screen_name": "DesaiAshu",
+            "name": "Ashu Desai",
+            "id": 312168293,
+            "id_str": "312168293",
+            "indices": [
+              97,
+              107
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/flj5F5Rnty",
+            "expanded_url": "https://medium.com/make-school/make-school-is-applying-for-accreditation-8b69da832386",
+            "display_url": "medium.com/make-school/ma…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9902092,
+        "id_str": "9902092",
+        "name": "Michael Hartl 🍂",
+        "screen_name": "mhartl",
+        "location": "Los Angeles, CA",
+        "description": "Entrepreneur, educator, retreaded physicist, rumored supervillain. Author of the @RailsTutorial, founder of @LearnEnough & @TauDay. He/him. Nūllīus in verbā.",
+        "url": "https://t.co/Z8K6rwNBQL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Z8K6rwNBQL",
+                "expanded_url": "http://michaelhartl.com",
+                "display_url": "michaelhartl.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11397,
+        "friends_count": 840,
+        "listed_count": 421,
+        "created_at": "Fri Nov 02 23:48:22 +0000 2007",
+        "favourites_count": 10191,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 7141,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/571081758972469248/HLvuuq_v_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/571081758972469248/HLvuuq_v_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9902092/1492041200",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 16 01:23:43 +0000 2018",
+    "id": 1052007145820942300,
+    "id_str": "1052007145820942336",
+    "text": "RT @ProductHunt: The future of higher-ed is here 😍\n\n@MakeSchool launched a new kind of bachelor's degree in applied CS 👩‍💻‍🛠️ https://t.co/…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ProductHunt",
+          "name": "Product Hunt",
+          "id": 2208027565,
+          "id_str": "2208027565",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            52,
+            63
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 15 14:04:02 +0000 2018",
+      "id": 1051836098912112600,
+      "id_str": "1051836098912112641",
+      "text": "The future of higher-ed is here 😍\n\n@MakeSchool launched a new kind of bachelor's degree in applied CS 👩‍💻‍🛠️… https://t.co/YMGNWYkIf1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              35,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YMGNWYkIf1",
+            "expanded_url": "https://twitter.com/i/web/status/1051836098912112641",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2208027565,
+        "id_str": "2208027565",
+        "name": "Product Hunt",
+        "screen_name": "ProductHunt",
+        "location": "producthunt.com",
+        "description": "The place to discover your next favorite thing. @ProductHuntLIVE 💬 @AskProductHunt 🤔 Emoji spirit of @AngelList ✌️",
+        "url": "https://t.co/WLHn6b1jex",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WLHn6b1jex",
+                "expanded_url": "https://www.producthunt.com/newsletter",
+                "display_url": "producthunt.com/newsletter",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 370163,
+        "friends_count": 29,
+        "listed_count": 5459,
+        "created_at": "Fri Nov 22 00:06:06 +0000 2013",
+        "favourites_count": 74811,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 111174,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1055410701613912064/i4xltIN8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055410701613912064/i4xltIN8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2208027565/1541705015",
+        "profile_link_color": "DA552F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 15 20:24:29 +0000 2018",
+    "id": 1051931841740062700,
+    "id_str": "1051931841740062721",
+    "text": "We've been featured on @ProductHunt today with our big announcement on accreditation! Check out the post and show y… https://t.co/pCK3Fynu3o",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ProductHunt",
+          "name": "Product Hunt",
+          "id": 2208027565,
+          "id_str": "2208027565",
+          "indices": [
+            23,
+            35
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pCK3Fynu3o",
+          "expanded_url": "https://twitter.com/i/web/status/1051931841740062721",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 15 04:15:27 +0000 2018",
+    "id": 1051687975271034900,
+    "id_str": "1051687975271034880",
+    "text": "RT @teentechsf: Congrats @TeenTechSF #CivicHackathon @MakeSchool FIRST PLACE WINNERS Team #Sustainability! Finalists in the #TTSFCivicHack…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CivicHackathon",
+          "indices": [
+            37,
+            52
+          ]
+        },
+        {
+          "text": "Sustainability",
+          "indices": [
+            90,
+            105
+          ]
+        },
+        {
+          "text": "TTSFCivicHack",
+          "indices": [
+            124,
+            138
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "teentechsf",
+          "name": "TeenTechSF",
+          "id": 464278502,
+          "id_str": "464278502",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "teentechsf",
+          "name": "TeenTechSF",
+          "id": 464278502,
+          "id_str": "464278502",
+          "indices": [
+            25,
+            36
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            53,
+            64
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 15 01:10:40 +0000 2018",
+      "id": 1051641471831404500,
+      "id_str": "1051641471831404544",
+      "text": "Congrats @TeenTechSF #CivicHackathon @MakeSchool FIRST PLACE WINNERS Team #Sustainability! Finalists in the… https://t.co/TnIrxmmLT9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "CivicHackathon",
+            "indices": [
+              21,
+              36
+            ]
+          },
+          {
+            "text": "Sustainability",
+            "indices": [
+              74,
+              89
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "teentechsf",
+            "name": "TeenTechSF",
+            "id": 464278502,
+            "id_str": "464278502",
+            "indices": [
+              9,
+              20
+            ]
+          },
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              37,
+              48
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TnIrxmmLT9",
+            "expanded_url": "https://twitter.com/i/web/status/1051641471831404544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 464278502,
+        "id_str": "464278502",
+        "name": "TeenTechSF",
+        "screen_name": "teentechsf",
+        "location": "San Francisco",
+        "description": "Founded by @marcrobertwong, an interactive tech community for teens to innovate, collaborate, and create in the heart of Silicon Valley.",
+        "url": "http://t.co/3OrlUobPpf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/3OrlUobPpf",
+                "expanded_url": "http://teentechsf.org",
+                "display_url": "teentechsf.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1148,
+        "friends_count": 1,
+        "listed_count": 55,
+        "created_at": "Sun Jan 15 02:06:45 +0000 2012",
+        "favourites_count": 47,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1746,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3761270468/fd142e30b8907682ea13a869f4a3692f_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3761270468/fd142e30b8907682ea13a869f4a3692f_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/464278502/1399135333",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 14 03:10:00 +0000 2018",
+    "id": 1051309117455794200,
+    "id_str": "1051309117455794177",
+    "text": "Thank you @teentechsf  :) https://t.co/7Jcj2FJ9fh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "teentechsf",
+          "name": "TeenTechSF",
+          "id": 464278502,
+          "id_str": "464278502",
+          "indices": [
+            10,
+            21
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7Jcj2FJ9fh",
+          "expanded_url": "https://twitter.com/teentechsf/status/1051280195737407488",
+          "display_url": "twitter.com/teentechsf/sta…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1051280195737407500,
+    "quoted_status_id_str": "1051280195737407488",
+    "quoted_status": {
+      "created_at": "Sun Oct 14 01:15:05 +0000 2018",
+      "id": 1051280195737407500,
+      "id_str": "1051280195737407488",
+      "text": "Thanks to @MakeSchool for hosting the 2018 @TeenTechSF #CivicHackathon  and for the amazing mentors, panel discussi… https://t.co/gvcurjHINC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "CivicHackathon",
+            "indices": [
+              55,
+              70
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              10,
+              21
+            ]
+          },
+          {
+            "screen_name": "teentechsf",
+            "name": "TeenTechSF",
+            "id": 464278502,
+            "id_str": "464278502",
+            "indices": [
+              43,
+              54
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gvcurjHINC",
+            "expanded_url": "https://twitter.com/i/web/status/1051280195737407488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 464278502,
+        "id_str": "464278502",
+        "name": "TeenTechSF",
+        "screen_name": "teentechsf",
+        "location": "San Francisco",
+        "description": "Founded by @marcrobertwong, an interactive tech community for teens to innovate, collaborate, and create in the heart of Silicon Valley.",
+        "url": "http://t.co/3OrlUobPpf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/3OrlUobPpf",
+                "expanded_url": "http://teentechsf.org",
+                "display_url": "teentechsf.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1148,
+        "friends_count": 1,
+        "listed_count": 55,
+        "created_at": "Sun Jan 15 02:06:45 +0000 2012",
+        "favourites_count": 47,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1746,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3761270468/fd142e30b8907682ea13a869f4a3692f_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3761270468/fd142e30b8907682ea13a869f4a3692f_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/464278502/1399135333",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 13 20:44:47 +0000 2018",
+    "id": 1051212174457102300,
+    "id_str": "1051212174457102336",
+    "text": "RT @abrahammarcj: \"You can make your own experience at Make School relevant to yourself\" - Joe Rezendes #TTSFCivHack @teentechsf @MakeSchoo…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TTSFCivHack",
+          "indices": [
+            104,
+            116
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "abrahammarcj",
+          "name": "Marc Abraham TTSF",
+          "id": 1051133747603562500,
+          "id_str": "1051133747603562497",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "teentechsf",
+          "name": "TeenTechSF",
+          "id": 464278502,
+          "id_str": "464278502",
+          "indices": [
+            117,
+            128
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 13 20:05:41 +0000 2018",
+      "id": 1051202332594036700,
+      "id_str": "1051202332594036736",
+      "text": "\"You can make your own experience at Make School relevant to yourself\" - Joe Rezendes #TTSFCivHack @teentechsf… https://t.co/BMuapUeBrx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TTSFCivHack",
+            "indices": [
+              86,
+              98
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "teentechsf",
+            "name": "TeenTechSF",
+            "id": 464278502,
+            "id_str": "464278502",
+            "indices": [
+              99,
+              110
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BMuapUeBrx",
+            "expanded_url": "https://twitter.com/i/web/status/1051202332594036736",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1051133747603562500,
+        "id_str": "1051133747603562497",
+        "name": "Marc Abraham TTSF",
+        "screen_name": "abrahammarcj",
+        "location": "San Francisco, CA",
+        "description": "My name is Marc, and I'm a volunteer at Teen Tech SF.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 2,
+        "listed_count": 0,
+        "created_at": "Sat Oct 13 15:33:09 +0000 2018",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 13 20:44:31 +0000 2018",
+    "id": 1051212107587280900,
+    "id_str": "1051212107587280896",
+    "text": "RT @HarshaTtsf: TeenTechSF Co President, Brian Wang, helping Civic Hackathon participants develop websites! \n@MakeSchool @teentechsf #TTSFC…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "HarshaTtsf",
+          "name": "TTSF_Harsha",
+          "id": 1051129606051221500,
+          "id_str": "1051129606051221507",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            109,
+            120
+          ]
+        },
+        {
+          "screen_name": "teentechsf",
+          "name": "TeenTechSF",
+          "id": 464278502,
+          "id_str": "464278502",
+          "indices": [
+            121,
+            132
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 13 20:42:12 +0000 2018",
+      "id": 1051211522871971800,
+      "id_str": "1051211522871971840",
+      "text": "TeenTechSF Co President, Brian Wang, helping Civic Hackathon participants develop websites! \n@MakeSchool… https://t.co/UfdN9XN2xl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              93,
+              104
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UfdN9XN2xl",
+            "expanded_url": "https://twitter.com/i/web/status/1051211522871971840",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1051129606051221500,
+        "id_str": "1051129606051221507",
+        "name": "TTSF_Harsha",
+        "screen_name": "HarshaTtsf",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Sat Oct 13 15:16:41 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 13 16:40:13 +0000 2018",
+    "id": 1051150628691406800,
+    "id_str": "1051150628691406853",
+    "text": "RT @teentechsf: Welcome to the @TeenTechSF #CivicHackathon from @MakeSchool Senior Rezendes @SFYouthCom Vice Chair Andam &amp; @TeenTechSF pres…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CivicHackathon",
+          "indices": [
+            43,
+            58
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "teentechsf",
+          "name": "TeenTechSF",
+          "id": 464278502,
+          "id_str": "464278502",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "teentechsf",
+          "name": "TeenTechSF",
+          "id": 464278502,
+          "id_str": "464278502",
+          "indices": [
+            31,
+            42
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            64,
+            75
+          ]
+        },
+        {
+          "screen_name": "SFYouthCom",
+          "name": "SF Youth Commission",
+          "id": 194221792,
+          "id_str": "194221792",
+          "indices": [
+            92,
+            103
+          ]
+        },
+        {
+          "screen_name": "teentechsf",
+          "name": "TeenTechSF",
+          "id": 464278502,
+          "id_str": "464278502",
+          "indices": [
+            127,
+            138
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 13 16:10:08 +0000 2018",
+      "id": 1051143055967846400,
+      "id_str": "1051143055967846400",
+      "text": "Welcome to the @TeenTechSF #CivicHackathon from @MakeSchool Senior Rezendes @SFYouthCom Vice Chair Andam &amp;… https://t.co/jjYkLInn5P",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "CivicHackathon",
+            "indices": [
+              27,
+              42
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "teentechsf",
+            "name": "TeenTechSF",
+            "id": 464278502,
+            "id_str": "464278502",
+            "indices": [
+              15,
+              26
+            ]
+          },
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              48,
+              59
+            ]
+          },
+          {
+            "screen_name": "SFYouthCom",
+            "name": "SF Youth Commission",
+            "id": 194221792,
+            "id_str": "194221792",
+            "indices": [
+              76,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jjYkLInn5P",
+            "expanded_url": "https://twitter.com/i/web/status/1051143055967846400",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 464278502,
+        "id_str": "464278502",
+        "name": "TeenTechSF",
+        "screen_name": "teentechsf",
+        "location": "San Francisco",
+        "description": "Founded by @marcrobertwong, an interactive tech community for teens to innovate, collaborate, and create in the heart of Silicon Valley.",
+        "url": "http://t.co/3OrlUobPpf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/3OrlUobPpf",
+                "expanded_url": "http://teentechsf.org",
+                "display_url": "teentechsf.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1148,
+        "friends_count": 1,
+        "listed_count": 55,
+        "created_at": "Sun Jan 15 02:06:45 +0000 2012",
+        "favourites_count": 47,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1746,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3761270468/fd142e30b8907682ea13a869f4a3692f_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3761270468/fd142e30b8907682ea13a869f4a3692f_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/464278502/1399135333",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Oct 12 15:03:36 +0000 2018",
+    "id": 1050763925979983900,
+    "id_str": "1050763925979983873",
+    "text": "RT @SWEDU_SF: Any #ETHSanFrancisco folks interested in innovation &amp; education? Come join us at @techstars #StartupWeekendEDU from Oct 19-21…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ETHSanFrancisco",
+          "indices": [
+            18,
+            34
+          ]
+        },
+        {
+          "text": "StartupWeekendEDU",
+          "indices": [
+            110,
+            128
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SWEDU_SF",
+          "name": "StartupWeekendEDU SF",
+          "id": 1267641864,
+          "id_str": "1267641864",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "techstars",
+          "name": "Techstars",
+          "id": 14277276,
+          "id_str": "14277276",
+          "indices": [
+            99,
+            109
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 07 23:10:36 +0000 2018",
+      "id": 1049074542767816700,
+      "id_str": "1049074542767816704",
+      "text": "Any #ETHSanFrancisco folks interested in innovation &amp; education? Come join us at @techstars #StartupWeekendEDU from… https://t.co/MmJStBnCd5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ETHSanFrancisco",
+            "indices": [
+              4,
+              20
+            ]
+          },
+          {
+            "text": "StartupWeekendEDU",
+            "indices": [
+              96,
+              114
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "techstars",
+            "name": "Techstars",
+            "id": 14277276,
+            "id_str": "14277276",
+            "indices": [
+              85,
+              95
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MmJStBnCd5",
+            "expanded_url": "https://twitter.com/i/web/status/1049074542767816704",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1267641864,
+        "id_str": "1267641864",
+        "name": "StartupWeekendEDU SF",
+        "screen_name": "SWEDU_SF",
+        "location": "San Francisco, CA",
+        "description": "Building a community of #BayArea changemakers transforming #education ideas into action. Join us Oct 19-21 @MakeSchool: https://t.co/9ZFVKZi0Ar",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/9ZFVKZi0Ar",
+                "expanded_url": "http://go.startupweekend.org/SWEDUSF",
+                "display_url": "go.startupweekend.org/SWEDUSF",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 784,
+        "friends_count": 907,
+        "listed_count": 37,
+        "created_at": "Thu Mar 14 18:13:11 +0000 2013",
+        "favourites_count": 470,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1197,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "119A48",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045161141528289280/XtfGZGG2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045161141528289280/XtfGZGG2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267641864/1423590009",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Oct 12 15:03:09 +0000 2018",
+    "id": 1050763811270012900,
+    "id_str": "1050763811270012929",
+    "text": "RT @ycombinator: Congrats to @MakeSchool (YC W12) on launching their first bachelor program in applied CS: https://t.co/tWypj27p69",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ycombinator",
+          "name": "Y Combinator",
+          "id": 113130846,
+          "id_str": "113130846",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "MakeSchool",
+          "name": "Make School",
+          "id": 506458865,
+          "id_str": "506458865",
+          "indices": [
+            29,
+            40
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tWypj27p69",
+          "expanded_url": "http://ow.ly/88X330m92bW",
+          "display_url": "ow.ly/88X330m92bW",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 08 17:30:12 +0000 2018",
+      "id": 1049351264922951700,
+      "id_str": "1049351264922951682",
+      "text": "Congrats to @MakeSchool (YC W12) on launching their first bachelor program in applied CS: https://t.co/tWypj27p69",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MakeSchool",
+            "name": "Make School",
+            "id": 506458865,
+            "id_str": "506458865",
+            "indices": [
+              12,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tWypj27p69",
+            "expanded_url": "http://ow.ly/88X330m92bW",
+            "display_url": "ow.ly/88X330m92bW",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 113130846,
+        "id_str": "113130846",
+        "name": "Y Combinator",
+        "screen_name": "ycombinator",
+        "location": "Mountain View",
+        "description": "",
+        "url": "http://t.co/Ptx1FAYCtj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Ptx1FAYCtj",
+                "expanded_url": "http://ycombinator.com",
+                "display_url": "ycombinator.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1034420,
+        "friends_count": 152,
+        "listed_count": 8222,
+        "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+        "favourites_count": 1761,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5735,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FA743E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Oct 11 18:21:33 +0000 2018",
+    "id": 1050451354307780600,
+    "id_str": "1050451354307780608",
+    "text": "The situation seems to be out of control - https://t.co/dZ6g2WzC8Z. We should all be asking: how can we improve hig… https://t.co/L7Vnj6IPAf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dZ6g2WzC8Z",
+          "expanded_url": "https://bloom.bg/2ytU6yA",
+          "display_url": "bloom.bg/2ytU6yA",
+          "indices": [
+            43,
+            66
+          ]
+        },
+        {
+          "url": "https://t.co/L7Vnj6IPAf",
+          "expanded_url": "https://twitter.com/i/web/status/1050451354307780608",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Oct 10 23:30:21 +0000 2018",
+    "id": 1050166676010995700,
+    "id_str": "1050166676010995712",
+    "text": "We’re hosting an online info session tomorrow, Oct 11, to discuss our Bachelor’s degree program in Applied Computer… https://t.co/7I5BbZeGf8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7I5BbZeGf8",
+          "expanded_url": "https://twitter.com/i/web/status/1050166676010995712",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 506458865,
+      "id_str": "506458865",
+      "name": "Make School",
+      "screen_name": "MakeSchool",
+      "location": "San Francisco, CA",
+      "description": "Make School offers a Bachelor’s in Applied Computer Science to prepare students of all backgrounds for jobs at companies like Facebook, Google, Apple.",
+      "url": "https://t.co/rfNT6gA2fX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rfNT6gA2fX",
+              "expanded_url": "http://make.sc/join-us",
+              "display_url": "make.sc/join-us",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4917,
+      "friends_count": 4582,
+      "listed_count": 184,
+      "created_at": "Mon Feb 27 21:54:26 +0000 2012",
+      "favourites_count": 2937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2597,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047598126876356608/I7Lhsfme_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/506458865/1538432506",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { TwitterService } from '@shared/services/twitter.service';
 
 @Component({
   selector: 'mtd-deck-column',
@@ -6,10 +7,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./deck-column.component.scss']
 })
 export class DeckColumnComponent implements OnInit {
+  tweetList;
 
-  constructor() { }
+  constructor(private twitterService: TwitterService) { }
 
   ngOnInit() {
+    this.twitterService
+      .getTweets('sample_id')
+      .subscribe(tweetList => {
+        this.tweetList = tweetList;
+      });
   }
-
 }

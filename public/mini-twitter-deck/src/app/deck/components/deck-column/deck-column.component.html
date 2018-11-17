@@ -1,1 +1,3 @@
-<mtd-tweet-row></mtd-tweet-row>
+<ng-container *ngFor="let tweet of tweetList">
+  <mtd-tweet-row [tweet]="tweet"></mtd-tweet-row>
+</ng-container>
