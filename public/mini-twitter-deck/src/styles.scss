@@ -1,5 +1,11 @@
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
 body {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
