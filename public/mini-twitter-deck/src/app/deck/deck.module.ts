@@ -5,6 +5,7 @@ import { SharedModule } from '@shared/shared.module';
 import { DeckComponent } from './deck.component';
 import { DeckColumnComponent } from './components/deck-column/deck-column.component';
 import { TweetRowComponent } from './components/tweet-row/tweet-row.component';
+import { TweetContentPipe } from './pipes/tweet-content.pipe';
 
 const routes: Routes = [
   {
@@ -18,6 +19,7 @@ const routes: Routes = [
     DeckComponent,
     DeckColumnComponent,
     TweetRowComponent,
+    TweetContentPipe,
   ],
   imports: [
     RouterModule.forChild(routes),

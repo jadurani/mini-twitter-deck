@@ -19,8 +19,7 @@
   </header>
 
   <div>
-    <p>
-      {{ tweet.text }}
+    <p [innerHtml]="tweet.text | tweetContent: tweet.entities">
     </p>
   </div>
 </article>
@@ -48,8 +47,7 @@
   </header>
 
   <div>
-    <p>
-      {{ tweet.retweeted_status.text }}
+    <p [innerHtml]="tweet.retweeted_status.text | tweetContent: tweet.retweeted_status.entities">
     </p>
   </div>
 </article>
