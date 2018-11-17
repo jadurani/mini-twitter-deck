@@ -7,11 +7,27 @@
   padding-left: 46px;
 }
 
+.retweet-user-name {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 /* TWEET HEADER */
+.tweet-header {
+  display: flex;
+}
 
 .account-link {
-  display: flex;
+  flex: 1 1 auto;
   text-decoration: none;
+
+  &:hover {
+    .tweet-user-name {
+      text-decoration: underline;
+    }
+  }
 }
 
 .tweet-img {
@@ -32,7 +48,6 @@
 }
 
 .tweet-user {
-  flex: 1 1 auto;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -40,9 +55,6 @@
 
 .tweet-user-name {
   font-weight: bold;
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 .tweet-user-handle {
@@ -64,4 +76,12 @@
 /* TWEET BODY */
 .tweet-text {
   margin: 0;
+}
+
+.text-link {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }

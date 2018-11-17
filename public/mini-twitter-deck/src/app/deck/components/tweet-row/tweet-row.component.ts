@@ -1,9 +1,10 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ViewEncapsulation, OnInit } from '@angular/core';
 
 @Component({
   selector: 'mtd-tweet-row',
   templateUrl: './tweet-row.component.html',
-  styleUrls: ['./tweet-row.component.scss']
+  styleUrls: ['./tweet-row.component.scss'],
+  encapsulation: ViewEncapsulation.None,
 })
 export class TweetRowComponent implements OnInit {
   displayTweet;

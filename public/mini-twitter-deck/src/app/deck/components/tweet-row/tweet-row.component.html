@@ -2,7 +2,11 @@
   <div class="l-constrained">
     <div class="tweet">
       <div *ngIf="tweet.retweeted_status">
-        {{ tweet.user.screen_name }} Retweeted
+        <a class="retweet-user-name"
+            href="https://twitter.com/{{ tweet.user.screen_name }}">
+          {{ tweet.user.screen_name }}
+        </a>
+        <span>Retweeted</span>
       </div>
 
       <header class="tweet-header">
@@ -17,14 +21,14 @@
             <span class="tweet-user-name">{{ displayTweet.user.name }}</span>
             <span class="tweet-user-handle">@{{ displayTweet.user.screen_name }}</span>
           </div>
-          <time class="tweet-time">
-            <a class="tweet-time-link"
-                href="https://twitter.com/{{ displayTweet.user.screen_name }}/status/{{ displayTweet.id_str}}"
-                target="_blank">
-              {{ displayTweet.created_at | date: 'dd MMM' }}
-            </a>
-          </time>
         </a>
+        <time class="tweet-time">
+          <a class="tweet-time-link"
+              href="https://twitter.com/{{ displayTweet.user.screen_name }}/status/{{ displayTweet.id_str}}"
+              target="_blank">
+            {{ displayTweet.created_at | date: 'dd MMM' }}
+          </a>
+        </time>
       </header>
 
       <div class="tweet-body">

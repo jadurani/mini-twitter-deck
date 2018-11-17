@@ -18,17 +18,17 @@ export class TweetContentPipe implements PipeTransform {
       switch (newEntity.type) {
         case EntityTypes.UserMention:
           textReplacement =
-            `<a href="https://twitter.com/${newEntity.text}"` +
+            `<a class="text-link" href="https://twitter.com/${newEntity.text}"` +
             `target="_blank">${newEntity.linkText}</a/>`;
           break;
         case EntityTypes.Hashtag:
           textReplacement =
-            `<a href="https://twitter.com/hashtag/${newEntity.text}"` +
+            `<a class="text-link" href="https://twitter.com/hashtag/${newEntity.text}"` +
             `target="_blank">${newEntity.linkText}</a/>`;
           break;
         case EntityTypes.Url:
           textReplacement =
-            `<a href="${newEntity.linkText}"` +
+            `<a class="text-link" href="${newEntity.linkText}"` +
             `target="_blank">${newEntity.linkText}</a/>`;
           break;
         default:
