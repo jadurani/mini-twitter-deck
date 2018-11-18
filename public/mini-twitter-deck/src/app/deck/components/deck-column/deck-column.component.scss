@@ -3,7 +3,31 @@
 .column-constrained {
   display: flex;
   flex-direction: column;
+  position: relative;
   height: 100%;
+}
+
+.column-header {
+  position: fixed;
+  height: 56px;
+  width: 100%;
+  outline: 2px $mystic solid;
+}
+
+.column-title {
+  padding: 16px;
+}
+
+.column-title-name {
+  color: $white;
+}
+
+.column-content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 56px;
+  height: 100%;
+  overflow-y: scroll;
 }
 
 .loading {

@@ -1,6 +1,14 @@
-<div class="column-constrained">
-  <div class="loading" *ngIf="!tweetList || !tweetList.length"></div>
-  <ng-container *ngFor="let tweet of tweetList">
-    <mtd-tweet-row [tweet]="tweet"></mtd-tweet-row>
-  </ng-container>
-</div>
+<section class="column-constrained">
+  <header class="column-header text-size--lg">
+    <div class="column-title">
+      Tweets from <span class="column-title-name">@{{ screenName }}</span>
+    </div>
+  </header>
+
+  <div class="column-content">
+    <div class="loading" *ngIf="!tweetList || !tweetList.length"></div>
+    <ng-container *ngFor="let tweet of tweetList">
+      <mtd-tweet-row [tweet]="tweet"></mtd-tweet-row>
+    </ng-container>
+  </div>
+</section>

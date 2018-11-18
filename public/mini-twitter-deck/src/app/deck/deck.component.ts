@@ -6,20 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./deck.component.scss']
 })
 export class DeckComponent implements OnInit {
-  columnList = [
-    {
-      screenName: 'makeschool',
-      rowCount: 30,
-    },
-    {
-      screenName: 'ycombinator',
-      rowCount: 30,
-    },
-    {
-      screenName: 'newsycombinator',
-      rowCount: 30,
-    }
-  ];
+  columnList = COLUMN_LIST;
 
   constructor() { }
 
@@ -27,3 +14,18 @@ export class DeckComponent implements OnInit {
   }
 
 }
+
+const COLUMN_LIST = [
+  {
+    screenName: 'MakeSchool',
+    rowCount: 30,
+  },
+  {
+    screenName: 'ycombinator',
+    rowCount: 30,
+  },
+  {
+    screenName: 'newsycombinator',
+    rowCount: 30,
+  }
+];

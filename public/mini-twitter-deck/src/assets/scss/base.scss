@@ -17,21 +17,37 @@ $mountain-meadow: #19cf86;
 .amaranth {
   @include anchor('color', $amaranth);
   @include loading-spinner($amaranth);
+  .column-header {
+    color: white;
+    background-color: $amaranth;
+  }
 }
 
 .curious-blue {
   @include anchor('color', $curious-blue);
   @include loading-spinner($curious-blue);
+  .column-header {
+    color: white;
+    background-color: $curious-blue;
+  }
 }
 
 .lightning-yellow {
   @include anchor('color', $lightning-yellow);
   @include loading-spinner($lightning-yellow);
+  .column-header {
+    color: white;
+    background-color: $lightning-yellow;
+  }
 }
 
 .mountain-meadow {
   @include anchor('color', $mountain-meadow);
   @include loading-spinner($mountain-meadow);
+  .column-header {
+    color: white;
+    background-color: $mountain-meadow;
+  }
 }
 
 .bg-amaranth {

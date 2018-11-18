@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'mini-twitter-deck';
   closed = true;
   themeColor = {
-    name: 'Amaranth',
-    value: 'amaranth',
+    name: 'Curious Blue',
+    value: 'curious-blue',
   };
 }
