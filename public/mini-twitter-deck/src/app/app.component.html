@@ -17,7 +17,8 @@
     </button>
   </div>
   <mtd-settings *ngIf="!closed"
-      [(selectedColor)]="themeColor">
+      [(selectedColor)]="themeColor"
+      [(closedSettings)]="closed">
   </mtd-settings>
   <router-outlet></router-outlet>
 </div>

@@ -9,6 +9,9 @@ export class SettingsComponent implements OnInit {
   @Input() selectedColor: string;
   @Output() selectedColorChange = new EventEmitter();
 
+  @Input() closedSettings: boolean;
+  @Output() closedSettingsChange = new EventEmitter();
+
   colorList = COLOR_CHOICES;
 
   constructor() { }
@@ -22,7 +25,8 @@ export class SettingsComponent implements OnInit {
   }
 
   close() {
-    console.log({close: 'rawr'});
+    this.closedSettings = !this.closedSettings;
+    this.closedSettingsChange.emit(this.closedSettings);
   }
 }
 
