@@ -1,8 +1,8 @@
-<div [class]="themeColor.value">
+<div [class]="selectedThemeColor.value">
   <div class="btn-container-fixed
       btn-container-settings bottom right"
       [class.opened]="!closed">
-    <button class="btn btn-fixed btn-settings bg-{{themeColor.value}}"
+    <button class="btn btn-fixed btn-settings bg-{{selectedThemeColor.value}}"
         [class.closed]="closed"
         [class.opened]="!closed"
         (click)="closed=!closed">
@@ -17,7 +17,7 @@
     </button>
   </div>
   <mtd-settings *ngIf="!closed"
-      [(selectedColor)]="themeColor"
+      [(selectedColor)]="selectedThemeColor"
       [(closedSettings)]="closed">
   </mtd-settings>
   <router-outlet></router-outlet>

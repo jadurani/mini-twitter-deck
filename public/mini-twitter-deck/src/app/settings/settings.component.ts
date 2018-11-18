@@ -1,4 +1,6 @@
 import { Component, OnInit, Input, EventEmitter, Output } from '@angular/core';
+import { ThemeColor, THEME_COLOR_CHOICES } from '@shared/models/theme-color';
+import { SettingsService } from '@shared/services/settings.service';
 
 @Component({
   selector: 'mtd-settings',
@@ -12,14 +14,17 @@ export class SettingsComponent implements OnInit {
   @Input() closedSettings: boolean;
   @Output() closedSettingsChange = new EventEmitter();
 
-  colorList = COLOR_CHOICES;
+  colorList: Array<ThemeColor>;
 
-  constructor() { }
+  constructor(private settings: SettingsService) {
+    this.colorList = THEME_COLOR_CHOICES;
+  }
 
   ngOnInit() {
   }
 
   onSelectColor(color: any) {
+    this.settings.setSelectedThemeColor(color);
     this.selectedColor = color;
     this.selectedColorChange.emit(this.selectedColor);
   }
@@ -30,21 +35,3 @@ export class SettingsComponent implements OnInit {
   }
 }
 
-const COLOR_CHOICES = [
-  {
-    name: 'Amaranth',
-    value: 'amaranth'
-  },
-  {
-    name: 'Curious Blue',
-    value: 'curious-blue'
-  },
-  {
-    name: 'Lightning Yellow',
-    value: 'lightning-yellow'
-  },
-  {
-    name: 'Mountain Meadow',
-    value: 'mountain-meadow'
-  },
-];
