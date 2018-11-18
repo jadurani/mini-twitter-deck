@@ -30,6 +30,23 @@ $mountain-meadow: #19cf86;
   @include anchor('color', $mountain-meadow);
 }
 
+.bg-amaranth {
+  background-color: $amaranth;
+}
+
+.bg-curious-blue {
+  background-color: $curious-blue;
+}
+
+.bg-lightning-yellow {
+  background-color: $lightning-yellow;
+}
+
+.bg-mountain-meadow {
+  background-color: $mountain-meadow;
+}
+
+
 body {
   font-size: 14px;
   line-height: 24px;
@@ -65,7 +82,6 @@ body {
 }
 
 .btn {
-  background-color: $mystic;
   border: 0;
   outline: none;
   cursor: pointer;

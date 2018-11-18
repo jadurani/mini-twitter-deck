@@ -2,7 +2,7 @@
   <div class="btn-container-fixed
       btn-container-settings bottom right"
       [class.opened]="!closed">
-    <button class="btn btn-fixed btn-settings"
+    <button class="btn btn-fixed btn-settings bg-{{themeColor.value}}"
         [class.closed]="closed"
         [class.opened]="!closed"
         (click)="closed=!closed">
