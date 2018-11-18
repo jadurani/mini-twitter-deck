@@ -24,3 +24,8 @@
     }
   }
 }
+
+.btn-container-settings.opened {
+  transform: translateX(-332px);
+  z-index: 6;
+}
