@@ -32,7 +32,7 @@
           <a href="https://twitter.com/{{ displayTweet.user.screen_name }}/status/{{ displayTweet.id_str}}"
               target="_blank">
             <span class="tweet-time-link">
-              {{ displayTweet.created_at | date: 'dd MMM' }}
+              {{ displayTweet.created_at | date: 'dd MMM yyyy' }}
             </span>
           </a>
         </time>

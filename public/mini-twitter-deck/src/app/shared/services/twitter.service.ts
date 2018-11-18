@@ -13,7 +13,6 @@ export class TwitterService {
   getTweets(
     screenName: string,
     count: number = 30,
-    maxId: number = 0,
   ) {
     return this.http.get(`${apiUrl}/1.1/statuses/user_timeline.json?count=${count}&screen_name=${screenName}`)
       .pipe(
@@ -26,5 +25,3 @@ export class TwitterService {
       );
   }
 }
-
-// const DUMMY_DATA_ARRAY =
