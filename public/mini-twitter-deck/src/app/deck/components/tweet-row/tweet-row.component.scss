@@ -88,6 +88,9 @@
 
 .tweet-time {
   padding-left: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .tweet-time-link {
