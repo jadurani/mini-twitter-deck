@@ -8,7 +8,10 @@ import { map } from 'rxjs/operators';
 export class TwitterService {
   private apiUrl: string;
 
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient) {
+    // TO DO: Connect to real api -- not done in this exerise
+    this.apiUrl = 'http://localhost:7890';
+  }
 
   getTweets(
     screenName: string,
