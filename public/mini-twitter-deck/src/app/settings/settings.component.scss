@@ -25,3 +25,42 @@
   background-color: $white;
   padding: 16px;
 }
+
+/* Theme Palette Selection */
+.ThemePalette-colorList {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ThemePalette-colorItem {
+  flex-basis: 20%;
+  height: 29px;
+  border-radius: 4px;
+
+  &.amaranth {
+    background-color: $amaranth;
+  }
+
+  &.curious-blue {
+    background-color: $curious-blue;
+  }
+
+  &.lightning-yellow {
+    background-color: $lightning-yellow;
+  }
+
+  &.mountain-meadow {
+    background-color: $mountain-meadow;
+  }
+
+  &--icon {
+    cursor: pointer;
+    display: flex;
+    height: 100%;
+
+    .icon-check {
+      color: $white;
+      margin: auto;
+    }
+  }
+}

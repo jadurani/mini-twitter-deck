@@ -4,6 +4,26 @@
     <h1>Settings</h1>
     <hr>
 
-    <h2>Theme Palette</h2>
+    <div class="ThemePalette">
+      <h2>Theme Palette</h2>
+      <div class="ThemePalette-colorList">
+        <ng-container *ngFor="let colorItem of colorList">
+          <div class="ThemePalette-colorItem {{ colorItem.value }}"
+              [title]="colorItem.name"
+              (click)="onSelectColor(colorItem)">
+            <label class="ThemePalette-colorItem--icon">
+              <i class="material-icons icon-check text-size--lg"
+                [class.hidden]="colorItem.value!=selectedColor.value">
+                check
+              </i>
+              <input type="radio"
+                  class="hidden"
+                  [value]="colorItem.value"
+                  [checked]="colorItem.value==selectedColor.value">
+            </label>
+          </div>
+        </ng-container>
+      </div>
+    </div>
   </div>
 </div>

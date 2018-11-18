@@ -3,13 +3,15 @@
 /* COLORS */
 $black: #000000;
 $blue: #0000ee;
+$mystic: #e6ecf0;
+$pale-sky: #657786;
+$white: #ffffff;
+
+// Theme Colors
 $amaranth: #e81c4f;
 $curious-blue: #1b95e0;
 $lightning-yellow: #fab81e;
 $mountain-meadow: #19cf86;
-$mystic: #e6ecf0;
-$pale-sky: #657786;
-$white: #ffffff;
 
 /* THEMES */
 .amaranth {
@@ -34,6 +36,10 @@ body {
 
   @include anchor('text-decoration', none);
   @include scrollbar($mystic);
+}
+
+.hidden {
+  display: none;
 }
 
 .text-size {
