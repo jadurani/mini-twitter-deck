@@ -1,3 +1,6 @@
-<ng-container *ngFor="let tweet of tweetList">
-  <mtd-tweet-row [tweet]="tweet"></mtd-tweet-row>
-</ng-container>
+<div class="column-constrained">
+  <div class="loading" *ngIf="!tweetList || !tweetList.length"></div>
+  <ng-container *ngFor="let tweet of tweetList">
+    <mtd-tweet-row [tweet]="tweet"></mtd-tweet-row>
+  </ng-container>
+</div>

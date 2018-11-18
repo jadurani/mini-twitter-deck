@@ -16,18 +16,22 @@ $mountain-meadow: #19cf86;
 /* THEMES */
 .amaranth {
   @include anchor('color', $amaranth);
+  @include loading-spinner($amaranth);
 }
 
 .curious-blue {
   @include anchor('color', $curious-blue);
+  @include loading-spinner($curious-blue);
 }
 
 .lightning-yellow {
   @include anchor('color', $lightning-yellow);
+  @include loading-spinner($lightning-yellow);
 }
 
 .mountain-meadow {
   @include anchor('color', $mountain-meadow);
+  @include loading-spinner($mountain-meadow);
 }
 
 .bg-amaranth {
@@ -111,3 +115,4 @@ body {
 .btn-circle {
   border-radius: 100%;
 }
+

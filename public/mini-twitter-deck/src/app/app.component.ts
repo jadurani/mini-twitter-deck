@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mini-twitter-deck';
-  closed = false;
+  closed = true;
   themeColor = {
     name: 'Amaranth',
     value: 'amaranth',
