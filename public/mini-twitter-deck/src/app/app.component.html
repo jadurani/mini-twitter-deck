@@ -1,24 +1,3 @@
-<div [class]="selectedThemeColor.value">
-  <div class="btn-container-fixed
-      btn-container-settings bottom right"
-      [class.opened]="!closed">
-    <button class="btn btn-fixed btn-settings bg-{{selectedThemeColor.value}}"
-        [class.closed]="closed"
-        [class.opened]="!closed"
-        (click)="closed=!closed">
-        <ng-container *ngIf="closed">
-          <i class="material-icons
-              icon-arrow-left text-size--lg">arrow_left</i>
-          <i class="material-icons icon-settings">settings</i>
-        </ng-container>
-        <ng-container *ngIf="!closed">
-          <i class="material-icons">close</i>
-        </ng-container>
-    </button>
-  </div>
-  <mtd-settings *ngIf="!closed"
-      [(selectedColor)]="selectedThemeColor"
-      [(closedSettings)]="closed">
-  </mtd-settings>
+<div>
   <router-outlet></router-outlet>
 </div>

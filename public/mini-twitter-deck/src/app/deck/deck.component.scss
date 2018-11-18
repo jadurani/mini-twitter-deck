@@ -1,3 +1,6 @@
+@import 'base.scss';
+
+/* DECK */
 .deck-constrained {
   display: flex;
 }
@@ -7,4 +10,38 @@
   flex-basis: 30%;
   overflow-y: hidden;
   height: 98vh;
+}
+
+/* SETTINGS BUTTON */
+.btn-settings {
+  display: flex;
+  height: 48px;
+  width: 56px;
+  color: $white;
+  border-radius: 100% 0 0 100%;
+
+  i {
+    flex: 1;
+  }
+}
+
+.icon-arrow-left {
+  display: none;
+}
+
+.btn-settings.closed {
+  &:hover {
+    .icon-arrow-left {
+      display: inline;
+    }
+
+    .icon-settings {
+      transform: rotate(20deg);
+    }
+  }
+}
+
+.btn-container-settings.opened {
+  transform: translateX(-332px);
+  z-index: 6;
 }

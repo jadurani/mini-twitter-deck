@@ -1,4 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
+import { ThemeColor } from '@shared/models/theme-color';
+import { SettingsService } from '@shared/services/settings.service';
 
 @Component({
   selector: 'mtd-deck',
@@ -6,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./deck.component.scss']
 })
 export class DeckComponent implements OnInit {
+  closed = true;
   columnList = COLUMN_LIST;
+  selectedThemeColor: ThemeColor;
 
-  constructor() { }
+  constructor(private settings: SettingsService) {
+    this.selectedThemeColor = this.settings.getSelectedThemeColor();
+  }
 
   ngOnInit() {
   }

@@ -9,10 +9,4 @@ import { SettingsService } from '@shared/services/settings.service';
 })
 export class AppComponent {
   title = 'mini-twitter-deck';
-  closed = true;
-  selectedThemeColor: ThemeColor;
-
-  constructor(private settings: SettingsService) {
-    this.selectedThemeColor = this.settings.getSelectedThemeColor();
-  }
 }
