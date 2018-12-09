@@ -5,10 +5,12 @@
     </div>
   </header>
 
-  <div class="column-content">
-    <div class="loading" *ngIf="!tweetList || !tweetList.length"></div>
+  <div class="column-content" (scroll)="onScroll($event)">
     <ng-container *ngFor="let tweet of tweetList">
       <mtd-tweet-row [tweet]="tweet"></mtd-tweet-row>
     </ng-container>
+    <div class="loading-container">
+      <div class="loading" *ngIf="loading || !tweetList || !tweetList.length"></div>
+    </div>
   </div>
 </section>

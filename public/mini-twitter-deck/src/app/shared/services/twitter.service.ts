@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { map } from 'rxjs/operators';
+import { map, take } from 'rxjs/operators';
+// import 'rxjs/add/operator/toPromise';
 
 @Injectable({
   providedIn: 'root'
@@ -13,19 +14,27 @@ export class TwitterService {
     this.apiUrl = 'http://localhost:7890';
   }
 
-  getTweets(
+  async getTweets(
     screenName: string,
     count: number = 30,
+    maxId: string = ''
   ) {
-    return this.http.get(`${this.apiUrl}/1.1/statuses/user_timeline.json?count=${count}&screen_name=${screenName}`)
+    let query = `${this.apiUrl}/1.1/statuses/user_timeline.json?count=${count}&screen_name=${screenName}`;
+    if (maxId !== '') {
+      query += `&max_id=${maxId}`;
+    }
+
+    return await this.http.get(query)
       .pipe(
+        take(1),
         map((tweetList: Array<any>) => {
           tweetList.forEach(tweet => {
             tweet.created_at = new Date(tweet.created_at);
           });
           return tweetList;
-        })
-      );
+        }),
+      )
+      .toPromise();
   }
 
   setApiUrl(apiUrl: string) {

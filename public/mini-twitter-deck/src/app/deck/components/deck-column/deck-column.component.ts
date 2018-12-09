@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, HostListener } from '@angular/core';
 import { TwitterService } from '@shared/services/twitter.service';
 
 @Component({
@@ -11,13 +11,40 @@ export class DeckColumnComponent implements OnInit {
   @Input() rowCount: number;
   tweetList;
 
-  constructor(private twitterService: TwitterService) { }
+  loading: boolean;
+  maxId: string;
+
+  constructor(private twitterService: TwitterService) {
+    this.tweetList = [];
+    this.maxId = '';
+  }
 
   ngOnInit() {
+    this.loadTweets();
+  }
+
+  @HostListener('scroll', ['$event'])
+  onScroll(event) {
+    const currentScrollHeight =
+      event.srcElement.offsetHeight +
+      event.srcElement.scrollTop;
+    if (
+      !this.loading &&
+      currentScrollHeight >= event.srcElement.scrollHeight - 24
+    ) {
+      this.loadTweets();
+    }
+  }
+
+  loadTweets() {
+    this.loading = true;
     this.twitterService
-      .getTweets(this.screenName, this.rowCount)
-      .subscribe(tweetList => {
-        this.tweetList = tweetList;
+      .getTweets(this.screenName, this.rowCount, this.maxId)
+      .then(tweetList => {
+        this.tweetList = [...this.tweetList, ...tweetList];
+        this.loading = false;
+
+        this.maxId = tweetList[tweetList.length - 1].id_str;
       });
   }
 }
