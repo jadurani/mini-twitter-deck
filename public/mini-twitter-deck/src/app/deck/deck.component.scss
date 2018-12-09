@@ -45,3 +45,19 @@
   transform: translateX(-332px);
   z-index: 6;
 }
+
+@media (max-width: 767px) {
+  .btn-container-settings.opened {
+    transform: translateX(-276px);
+    z-index: 7;
+
+    .btn-settings {
+      border-radius: 0;
+    }
+
+    .btn-fixed {
+      box-shadow: none;
+    }
+  }
+
+}
