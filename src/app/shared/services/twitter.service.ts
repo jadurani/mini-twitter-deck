@@ -1,7 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { map, take } from 'rxjs/operators';
-// import 'rxjs/add/operator/toPromise';
 
 @Injectable({
   providedIn: 'root'
@@ -10,8 +9,7 @@ export class TwitterService {
   private apiUrl: string;
 
   constructor(private http: HttpClient) {
-    // TO DO: Connect to real api -- not done in this exerise
-    this.apiUrl = 'http://localhost:7890';
+    this.apiUrl = 'https://mini-twitter-deck-proxy-server.herokuapp.com'
   }
 
   async getTweets(
