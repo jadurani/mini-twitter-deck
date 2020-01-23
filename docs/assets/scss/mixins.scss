@@ -1,0 +1,96 @@
+/************************** STYLES **************************/
+
+// Box Shadow
+// example: @include box-shadow(1px, 2px, 2px, 2px, #000);
+@mixin box-shadow($hoff: false, $voff: false, $blur: false, $spread: false, $color: false) {
+  -webkit-box-shadow: $hoff $voff $blur $spread $color;
+     -moz-box-shadow: $hoff $voff $blur $spread $color;
+          box-shadow: $hoff $voff $blur $spread $color;
+}
+
+// Inner Shadow
+// example: @include inner-shadow(1px, 2px, 2px, #000);
+@mixin inner-shadow($hoff: false, $voff: false, $blur: false, $color: false) {
+  -webkit-box-shadow: inset $hoff $voff $blur $color;
+     -moz-box-shadow: inset $hoff $voff $blur $color;
+          box-shadow: inset $hoff $voff $blur $color;
+}
+
+// Anchor
+// example: @include anchor('color', #0000ee);
+@mixin anchor($property, $value) {
+  a,
+  a:hover,
+  a:active,
+  a:visited {
+    #{$property}: $value;
+  }
+}
+
+// Scrollbar
+@mixin scrollbar($color) {
+  /* width */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    border-radius: 1px;
+    @include inner-shadow(0, 0, 4px, $color);
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: $color;
+    border-radius: 12px;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: darken($color, 20%);
+  }
+}
+
+@mixin loading-spinner($color) {
+  div.loading {
+    border: 4px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 4px solid $color;
+    width: 24px;
+    height: 24px;
+    -webkit-animation: spin 0.75s linear infinite;
+       -moz-animation: spin 0.75s linear infinite;
+            animation: spin 0.75s linear infinite;
+  }
+
+  @-webkit-keyframes spin {
+    0% {
+      -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+      -webkit-transform: rotate(360deg);
+    }
+  }
+
+  @-moz-keyframes spin {
+    0% {
+      -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+      -webkit-transform: rotate(360deg);
+    }
+  }
+
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+}
