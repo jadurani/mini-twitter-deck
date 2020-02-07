@@ -25,7 +25,9 @@ app.get('/statuses/user_timeline', function(req, res){
     }
     res.json(tweets)
   })
-
 })
 
-app.listen(PORT)
+console.log(`Will listen to port ${PORT}`)
+app.listen(PORT, () => {
+  console.log(`Now listening to port ${PORT}`)
+})
